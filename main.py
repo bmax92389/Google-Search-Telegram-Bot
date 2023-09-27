@@ -19,7 +19,7 @@ dp.middleware.setup(LoggingMiddleware())
 
 # User cooldowns and admin_ids
 user_cooldowns = {}
-admin_ids = [123456, 123456]  # Replace with your admin IDs
+admin_ids = [5615469849, 123456]  # Replace with your admin IDs
 
 def on_cooldown(user_id):
     cooldown_time = 600  # 10 minutes in seconds
