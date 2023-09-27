@@ -10,7 +10,7 @@ from aiogram.utils.exceptions import CantParseEntities
 from aiogram.types import InputMediaPhoto
 
 # BOT TOKEN
-BOT_TOKEN = '5751873492:AAFAgy_3MVe1IpsmTLxnWJe3rjSUH_CpY_o'  # <-- Replace this with your actual bot token
+BOT_TOKEN = 'bot-token'  # <-- Replace this with your actual bot token
 
 # Initialization
 bot = Bot(token=BOT_TOKEN)
