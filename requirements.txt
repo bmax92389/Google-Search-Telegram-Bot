@@ -1,4 +1,2 @@
-os==0.1.4
 requests==2.26.0
-time==1.0.0
 aiogram==2.15
